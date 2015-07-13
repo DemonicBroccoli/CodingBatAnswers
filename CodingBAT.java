@@ -241,5 +241,5 @@ public class CodingBAT {
 			return a;
 		return sum;
 	}
-
+// Test
 }
